@@ -1,5 +1,5 @@
 # OpenJSH
-a Java-based alternative shell for Windows, macOS, and Linux. Java 17 only is required
+a Java-based alternative shell for Windows, macOS, and Linux. Java 17 is required. Not newer nor older
 
 OpenJSH is a lightweight bash-like shell for macOS, Windows, and Linux (all distros). This java 17-based shell runs perfectly alongside bash/zsh as an operating environment.
 
