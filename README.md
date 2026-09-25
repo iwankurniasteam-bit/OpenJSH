@@ -13,3 +13,5 @@ This is a project  that is in early access. so don’t expect much from me, Open
 * cd directory>
 * Full integration with bash/zsh
 * cd
+
+* this project is just for hobbies, not gonna be planning to become a giant like linux or bash
