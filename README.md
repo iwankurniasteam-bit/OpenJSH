@@ -9,7 +9,7 @@ Recommended Requirements: Windows 7 SP1 or macOS 10.12 or Linux Kernel 3.10, 4 G
 
 This is a project  that is in early access. so don’t expect much from me, OpenJSH 0.0.1 InDev added
 
-# ls
-# cd directory>
-# Full integration with bash/zsh
-# cd
+* ls
+* cd directory>
+* Full integration with bash/zsh
+* cd
