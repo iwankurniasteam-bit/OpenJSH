@@ -14,4 +14,4 @@ This is a project  that is in early access. so don’t expect much from me, Open
 * Full integration with bash/zsh
 * cd
 
-* this project is just for hobbies, not gonna be planning to become a giant like linux or bash
+* this project is just for hobbies, not gonna be planning to become a giant like linux or bash. This project is made by an 11 yo ar the free time so don't mind if there is so much bugs
